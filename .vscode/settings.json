@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "exp_04.C": "cpp",
+        "math.h": "c",
+        "errno.h": "c"
+    }
+}
