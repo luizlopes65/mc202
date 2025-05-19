@@ -1,0 +1,32 @@
+6
+8Kb
+inserir arq1 2Kb
+inserir arq2 1Kb
+inserir arq3 1Kb
+remover arq1
+remover arq2
+inserir arq4 1Kb
+3
+8Kb
+inserir arq0001 7Kb
+inserir arq0002 3Mb
+remover arq0001
+6
+8Mb
+inserir arq0001 4Mb
+inserir arq0002 1Mb
+inserir arq0003 512Kb
+remover arq0001
+remover arq0001
+inserir arq0001 5Mb
+2
+64Mb
+otimizar
+remover aaaaaaaaaa
+4
+16Mb
+inserir a1 2Mb
+inserir a2 512Kb
+inserir a3 2Mb
+remover a2
+0
